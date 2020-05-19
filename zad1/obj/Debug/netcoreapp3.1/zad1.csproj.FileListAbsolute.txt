@@ -1,0 +1,13 @@
+C:\Users\Stjepan\source\repos\RPPOON LV7\zad1\bin\Debug\netcoreapp3.1\zad1.exe
+C:\Users\Stjepan\source\repos\RPPOON LV7\zad1\bin\Debug\netcoreapp3.1\zad1.deps.json
+C:\Users\Stjepan\source\repos\RPPOON LV7\zad1\bin\Debug\netcoreapp3.1\zad1.runtimeconfig.json
+C:\Users\Stjepan\source\repos\RPPOON LV7\zad1\bin\Debug\netcoreapp3.1\zad1.runtimeconfig.dev.json
+C:\Users\Stjepan\source\repos\RPPOON LV7\zad1\bin\Debug\netcoreapp3.1\zad1.dll
+C:\Users\Stjepan\source\repos\RPPOON LV7\zad1\bin\Debug\netcoreapp3.1\zad1.pdb
+C:\Users\Stjepan\source\repos\RPPOON LV7\zad1\obj\Debug\netcoreapp3.1\zad1.csprojAssemblyReference.cache
+C:\Users\Stjepan\source\repos\RPPOON LV7\zad1\obj\Debug\netcoreapp3.1\zad1.csproj.CoreCompileInputs.cache
+C:\Users\Stjepan\source\repos\RPPOON LV7\zad1\obj\Debug\netcoreapp3.1\zad1.AssemblyInfoInputs.cache
+C:\Users\Stjepan\source\repos\RPPOON LV7\zad1\obj\Debug\netcoreapp3.1\zad1.AssemblyInfo.cs
+C:\Users\Stjepan\source\repos\RPPOON LV7\zad1\obj\Debug\netcoreapp3.1\zad1.dll
+C:\Users\Stjepan\source\repos\RPPOON LV7\zad1\obj\Debug\netcoreapp3.1\zad1.pdb
+C:\Users\Stjepan\source\repos\RPPOON LV7\zad1\obj\Debug\netcoreapp3.1\zad1.genruntimeconfig.cache

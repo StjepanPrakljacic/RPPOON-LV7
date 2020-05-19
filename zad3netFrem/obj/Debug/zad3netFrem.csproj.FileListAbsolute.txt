@@ -1,0 +1,7 @@
+C:\Users\Stjepan\source\repos\RPPOON LV7\zad3netFrem\bin\Debug\zad3netFrem.exe.config
+C:\Users\Stjepan\source\repos\RPPOON LV7\zad3netFrem\bin\Debug\zad3netFrem.exe
+C:\Users\Stjepan\source\repos\RPPOON LV7\zad3netFrem\bin\Debug\zad3netFrem.pdb
+C:\Users\Stjepan\source\repos\RPPOON LV7\zad3netFrem\obj\Debug\zad3netFrem.csprojAssemblyReference.cache
+C:\Users\Stjepan\source\repos\RPPOON LV7\zad3netFrem\obj\Debug\zad3netFrem.csproj.CoreCompileInputs.cache
+C:\Users\Stjepan\source\repos\RPPOON LV7\zad3netFrem\obj\Debug\zad3netFrem.exe
+C:\Users\Stjepan\source\repos\RPPOON LV7\zad3netFrem\obj\Debug\zad3netFrem.pdb

@@ -1,0 +1,7 @@
+C:\Users\Stjepan\source\repos\RPPOON LV7\zad4netfrem\bin\Debug\zad4netfrem.exe.config
+C:\Users\Stjepan\source\repos\RPPOON LV7\zad4netfrem\bin\Debug\zad4netfrem.exe
+C:\Users\Stjepan\source\repos\RPPOON LV7\zad4netfrem\bin\Debug\zad4netfrem.pdb
+C:\Users\Stjepan\source\repos\RPPOON LV7\zad4netfrem\obj\Debug\zad4netfrem.csprojAssemblyReference.cache
+C:\Users\Stjepan\source\repos\RPPOON LV7\zad4netfrem\obj\Debug\zad4netfrem.csproj.CoreCompileInputs.cache
+C:\Users\Stjepan\source\repos\RPPOON LV7\zad4netfrem\obj\Debug\zad4netfrem.exe
+C:\Users\Stjepan\source\repos\RPPOON LV7\zad4netfrem\obj\Debug\zad4netfrem.pdb
